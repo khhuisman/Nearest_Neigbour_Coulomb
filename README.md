@@ -7,4 +7,4 @@ The magnetic stray field causes a phases shift in the hopping of helical chain o
 We use the non-equilbrium Green's function method in our calculations.
 
 Finally, thank you for making it this far. It probably means you went deep into my thesis.
-Please feel free to contact me.
+Please feel free to contact me when you have any questions.
